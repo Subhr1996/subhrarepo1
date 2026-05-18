@@ -9,6 +9,6 @@ jobs:
         runs-on: ubuntu-latest
         steps:
         - name: print message
-          run: python version
+          run: python --version
   
    
